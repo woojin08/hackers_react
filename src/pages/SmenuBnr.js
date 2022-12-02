@@ -9,7 +9,7 @@ const Smenu = ({ content, num }) => {
                 <strong></strong>
             </div>
             <div className='tcbg'>
-                <div className="case">
+                <div className="case inner">
                     <h2>{content[num].con}<br /></h2>
                     <p>{content[num].cons}</p>
                     <p className='small'>{content[num].dev}</p>
