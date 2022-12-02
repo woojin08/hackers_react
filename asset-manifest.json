@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hackers_react/static/css/main.c4a7f565.css",
-    "main.js": "/hackers_react/static/js/main.252d3960.js",
+    "main.css": "/hackers_react/static/css/main.49a42f4c.css",
+    "main.js": "/hackers_react/static/js/main.e247e6ec.js",
     "static/media/main02.jpg": "/hackers_react/static/media/main02.61d92a38ac585394a920.jpg",
     "static/media/main_03.jpg": "/hackers_react/static/media/main_03.100b28c3a3b6dc6ed08f.jpg",
     "static/media/main01.jpg": "/hackers_react/static/media/main01.596d71a6df184a31a94f.jpg",
@@ -9,11 +9,11 @@
     "static/media/study03.jpg": "/hackers_react/static/media/study03.874c30f3e07fb285d23c.jpg",
     "static/media/sub02.jpg": "/hackers_react/static/media/sub02.5952523d1eb550858965.jpg",
     "index.html": "/hackers_react/index.html",
-    "main.c4a7f565.css.map": "/hackers_react/static/css/main.c4a7f565.css.map",
-    "main.252d3960.js.map": "/hackers_react/static/js/main.252d3960.js.map"
+    "main.49a42f4c.css.map": "/hackers_react/static/css/main.49a42f4c.css.map",
+    "main.e247e6ec.js.map": "/hackers_react/static/js/main.e247e6ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a7f565.css",
-    "static/js/main.252d3960.js"
+    "static/css/main.49a42f4c.css",
+    "static/js/main.e247e6ec.js"
   ]
 }
